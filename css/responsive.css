@@ -1,0 +1,198 @@
+@media screen and (max-width: 480px){
+    header.main_header {
+        padding: 10px;
+        width: 79rem;
+    }
+    #women_fashion{
+        width: 80rem;
+    }
+    .products_models {
+        margin-left: 90px;
+    }
+    .sec_title {
+        text-align: center;
+        margin-left: 10%;
+      }
+    .sec_title h2 {
+        font-size: 36px;
+        text-transform: uppercase;
+        margin-bottom: 45px;
+    }
+    .single_model {
+        width: 299px;
+        float: left;
+        padding: 23px;
+        position: relative;
+        overflow: hidden;
+    }
+    section#discount_offer {
+        width: 80rem;
+    } 
+    #most_popular .single_model {
+        width: 220px;
+        padding: 20px;
+    }
+
+
+
+
+
+
+
+
+
+    section#tranding {
+        height: 890px;
+    }
+    section#tranding .single_model {
+        width: 215px;
+    }
+    section#tranding .single_model:first-child {
+        margin-left: 0px;
+    }
+    .icon_bar {
+        width: 100px;
+        margin-top: 15px;
+        float: none;
+    }
+    
+    .icon_bar p {
+        float: right;
+        font-size: 13px;
+        color: #888;
+        margin-top: 1px;
+    }
+    
+    .icon_bar i {
+        font-size: 17px;
+        color: #ff5353;
+    }
+    
+    section#tranding  .post_items {
+        width: 310px;
+        float: left;
+        margin-left: 69px;
+    }
+
+
+
+
+
+
+
+
+    section#processing {
+        height: 85px;
+    }
+    .single.process {
+        width: 233px;
+        text-align: center;
+        border: 1px solid #ebeef0;
+        float: left;
+        margin-left: 30px;
+    }
+    .product_processing {
+        margin-left: 80px;
+    }
+    
+    .single.process i {
+        font-size: 40px;
+        color: #ff5353;
+        margin-bottom: 15px;
+        margin-top: 30px;
+    }
+    
+    .single.process h4 {
+        font-weight: 500;
+        font-size: 15px;
+    }
+    
+    .single.process p {
+        font-size: 12px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+        color: #888;
+    }
+    section#tranding {
+        height: 890px;
+    }
+    section#tranding .single_model {
+        width: 216px;
+    }
+    section#tranding .single_model:first-child {
+        margin-left: 0px;
+    }
+    .icon_bar {
+        width: 100px;
+        margin-top: 15px;
+        float: none;
+    }
+    
+    .icon_bar p {
+        float: right;
+        font-size: 13px;
+        color: #888;
+        margin-top: 1px;
+    }
+    
+    .icon_bar i {
+        font-size: 17px;
+        color: #ff5353;
+    }
+    
+    .post_items {
+        width: 243px;
+        float: left;
+        margin-left: 128px;
+    }
+
+
+
+
+
+
+
+
+    section#journal {
+        height: 500px;
+    }
+    
+    .journal_image img {
+        width: 100%;
+        transition: 0.3s;
+    }
+    
+    .journal_content h3 {
+        margin-top: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    .coments.icon_bar {
+        margin-right: 35px;
+        width: 120px;
+        float: left;
+    }
+    .journal_content h3:hover{
+        color: #ff5353;
+    }
+    
+    .coments.icon_bar i {
+        font-size: 12px;
+        color: #888;
+    }
+    
+    .coments.icon_bar p {
+        margin-top: 2px;
+    }
+    .post_items:hover .journal_image img{
+        transform: scale(1.05);
+    }
+    section#follow_us .single_model {
+        width: 210px;
+    }
+    footer#last_footer{
+        width: 69rem;
+    }
+    
+      
+}
